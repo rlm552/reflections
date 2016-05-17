@@ -1,0 +1,3 @@
+Question: What happens when you initialize a repository? Why do you need to do it?
+
+Answer: You create a .git file and a repository. You need to initialize to create a git repository.
