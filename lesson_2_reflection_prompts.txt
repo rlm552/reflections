@@ -9,3 +9,7 @@ Answer: It selects files from the working directory so it might not have all the
 Question: How can you use the staging area to make sure you have one commit per logical change?
 
 Answer: The staging area controls what you want saved to your git. This means who you don't save before a logical change or after too many changes.
+
+Question: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Answer: When you want to make an experimental change or create a completely new version.
